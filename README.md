@@ -1,6 +1,6 @@
 # Esmeralda Pereira
 
-**´´Estudante de ADS´´**
+**Estudante de Análise e Desenvolvimento de Sistemas(ADS)**
 
 
 
