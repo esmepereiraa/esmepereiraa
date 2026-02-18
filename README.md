@@ -20,7 +20,7 @@ Me chamo Esmeralda, tenho 18 anos, sou natural de Ipatinga, Minas Gerais. Atualm
     </a>
 
 <p align="left">
-    <a href= "www.linkedin.com/in/esmeralda-pereira-185654371">
+    <a href= "https://www.linkedin.com/in/esmeralda-pereira-185654371">
         <img 
             alt="LinkedIn" 
             title="Connect with me" 
